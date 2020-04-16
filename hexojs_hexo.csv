@@ -1,0 +1,202 @@
+project, pr_id, user, pr_title, URL
+hexojs/hexo,4227,dependabot-preview,chore(deps-dev): bump lint-staged from 9.5.0 to 10.1.2,https://github.com/hexojs/hexo/pull/4227
+hexojs/hexo,4211,dependabot-preview,chore(deps-dev): bump lint-staged from 9.5.0 to 10.1.1,https://github.com/hexojs/hexo/pull/4211
+hexojs/hexo,4209,dependabot-preview,chore(deps-dev): bump lint-staged from 9.5.0 to 10.1.0,https://github.com/hexojs/hexo/pull/4209
+hexojs/hexo,4206,dependabot-preview,chore(deps-dev): bump lint-staged from 9.5.0 to 10.0.10,https://github.com/hexojs/hexo/pull/4206
+hexojs/hexo,4201,dependabot-preview,chore(deps-dev): bump lint-staged from 9.5.0 to 10.0.9,https://github.com/hexojs/hexo/pull/4201
+hexojs/hexo,4182,seaoak,Fix mismatching between TOC helper and `hexo-util.htmlTag`,https://github.com/hexojs/hexo/pull/4182
+hexojs/hexo,4180,dependabot-preview,chore(deps-dev): bump sinon from 8.1.1 to 9.0.1,https://github.com/hexojs/hexo/pull/4180
+hexojs/hexo,4158,dependabot-preview,chore(deps-dev): bump lint-staged from 9.5.0 to 10.0.8,https://github.com/hexojs/hexo/pull/4158
+hexojs/hexo,4154,curbengh,feat: disable deep merging theme configs by default,https://github.com/hexojs/hexo/pull/4154
+hexojs/hexo,4150,segayuu,Refactor(class): Replace prototype to class syntax,https://github.com/hexojs/hexo/pull/4150
+hexojs/hexo,4146,SukkaW,perf(partial): enhance caching,https://github.com/hexojs/hexo/pull/4146
+hexojs/hexo,4141,Himself65,perf: improve performance through inline variable 'length',https://github.com/hexojs/hexo/pull/4141
+hexojs/hexo,4137,Himself65,fix: backwards compatible to nodejs < 8 (#4123),https://github.com/hexojs/hexo/pull/4137
+hexojs/hexo,4135,dependabot-preview,chore(deps-dev): bump sinon from 8.1.1 to 9.0.0,https://github.com/hexojs/hexo/pull/4135
+hexojs/hexo,4126,dependabot-preview,chore(deps-dev): bump husky from 3.1.0 to 4.2.3,https://github.com/hexojs/hexo/pull/4126
+hexojs/hexo,4124,dependabot-preview,chore(deps-dev): bump husky from 3.1.0 to 4.2.2,https://github.com/hexojs/hexo/pull/4124
+hexojs/hexo,4114,dependabot-preview,chore(deps-dev): bump lint-staged from 9.5.0 to 10.0.7,https://github.com/hexojs/hexo/pull/4114
+hexojs/hexo,4110,dependabot-preview,chore(deps-dev): bump lint-staged from 9.5.0 to 10.0.6,https://github.com/hexojs/hexo/pull/4110
+hexojs/hexo,4106,dependabot-preview,chore(deps-dev): bump lint-staged from 9.5.0 to 10.0.4,https://github.com/hexojs/hexo/pull/4106
+hexojs/hexo,4105,dependabot-preview,chore(deps-dev): bump lint-staged from 9.5.0 to 10.0.3,https://github.com/hexojs/hexo/pull/4105
+hexojs/hexo,4103,SukkaW,feat(processor): enable cache for common util,https://github.com/hexojs/hexo/pull/4103
+hexojs/hexo,4099,dependabot-preview,chore(deps-dev): bump husky from 3.1.0 to 4.2.1,https://github.com/hexojs/hexo/pull/4099
+hexojs/hexo,4097,dependabot-preview,chore(deps-dev): bump lint-staged from 9.5.0 to 10.0.2,https://github.com/hexojs/hexo/pull/4097
+hexojs/hexo,4096,dependabot-preview,chore(deps-dev): bump husky from 3.1.0 to 4.2.0,https://github.com/hexojs/hexo/pull/4096
+hexojs/hexo,4094,dependabot-preview,chore(deps-dev): bump lint-staged from 9.5.0 to 10.0.1,https://github.com/hexojs/hexo/pull/4094
+hexojs/hexo,4089,dependabot-preview,chore(deps-dev): bump lint-staged from 9.5.0 to 10.0.0,https://github.com/hexojs/hexo/pull/4089
+hexojs/hexo,4082,dependabot-preview,chore(deps-dev): bump husky from 3.1.0 to 4.0.10,https://github.com/hexojs/hexo/pull/4082
+hexojs/hexo,4079,dependabot-preview,chore(deps-dev): bump husky from 3.1.0 to 4.0.9,https://github.com/hexojs/hexo/pull/4079
+hexojs/hexo,4074,dependabot-preview,chore(deps-dev): bump husky from 3.1.0 to 4.0.7,https://github.com/hexojs/hexo/pull/4074
+hexojs/hexo,4070,SukkaW,feat: add prop to helper extension,https://github.com/hexojs/hexo/pull/4070
+hexojs/hexo,4068,dependabot-preview,chore(deps-dev): bump husky from 3.1.0 to 4.0.5,https://github.com/hexojs/hexo/pull/4068
+hexojs/hexo,4066,dependabot-preview,chore(deps-dev): bump husky from 3.1.0 to 4.0.3,https://github.com/hexojs/hexo/pull/4066
+hexojs/hexo,4064,dependabot-preview,chore(deps-dev): bump husky from 3.1.0 to 4.0.1,https://github.com/hexojs/hexo/pull/4064
+hexojs/hexo,4062,dependabot-preview,chore(deps-dev): bump husky from 3.1.0 to 4.0.0,https://github.com/hexojs/hexo/pull/4062
+hexojs/hexo,4004,dependabot-preview,build(deps-dev): bump sinon from 7.5.0 to 8.0.0,https://github.com/hexojs/hexo/pull/4004
+hexojs/hexo,3999,SukkaW,feat(external_link): enhance cache,https://github.com/hexojs/hexo/pull/3999
+hexojs/hexo,3990,SukkaW,test(toc): refactor the test,https://github.com/hexojs/hexo/pull/3990
+hexojs/hexo,3941,curbengh,refactor(theme/view): replace lodash,https://github.com/hexojs/hexo/pull/3941
+hexojs/hexo,3939,curbengh,refactor(post): async/await,https://github.com/hexojs/hexo/pull/3939
+hexojs/hexo,3929,noraj,add min_depth to toc() helper,https://github.com/hexojs/hexo/pull/3929
+hexojs/hexo,3912,curbengh,fix(tag/category): transform case on name,https://github.com/hexojs/hexo/pull/3912
+hexojs/hexo,3910,dailyrandomphoto,fix(box): handle edge cases for "ignore:" option,https://github.com/hexojs/hexo/pull/3910
+hexojs/hexo,3902,SukkaW,feat(enhance_cache): bring up [locals],https://github.com/hexojs/hexo/pull/3902
+hexojs/hexo,3901,SukkaW,[WIP] feat(cache): bring up lfu,https://github.com/hexojs/hexo/pull/3901
+hexojs/hexo,3893,curbengh,feat(permalink): pretty_urls.trailing_html,https://github.com/hexojs/hexo/pull/3893
+hexojs/hexo,3866,SukkaW,style: use for..of,https://github.com/hexojs/hexo/pull/3866
+hexojs/hexo,3847,SukkaW,refactor(external_link): utilize hexo-util isExternalLink(),https://github.com/hexojs/hexo/pull/3847
+hexojs/hexo,3839,SukkaW,test/refactor: update isExternalLink,https://github.com/hexojs/hexo/pull/3839
+hexojs/hexo,3835,curbengh,refactor(external_link): utilize isExternalLink() of hexo-util,https://github.com/hexojs/hexo/pull/3835
+hexojs/hexo,3834,curbengh,Revert "fix: external link ignore mailto: & javascript: (#3812)",https://github.com/hexojs/hexo/pull/3834
+hexojs/hexo,3832,curbengh,test revert,https://github.com/hexojs/hexo/pull/3832
+hexojs/hexo,3831,curbengh,perf(new_post_path): revert to lodash defaults,https://github.com/hexojs/hexo/pull/3831
+hexojs/hexo,3807,SukkaW,refactor: drop lodash for lib/theme,https://github.com/hexojs/hexo/pull/3807
+hexojs/hexo,3801,curbengh,Ci node 13,https://github.com/hexojs/hexo/pull/3801
+hexojs/hexo,3800,curbengh,ci: add node 13 and updating caching option,https://github.com/hexojs/hexo/pull/3800
+hexojs/hexo,3789,YoshinoriN,docs: add compatibility with Node.js,https://github.com/hexojs/hexo/pull/3789
+hexojs/hexo,3779,fossabot,Add license scan report and status,https://github.com/hexojs/hexo/pull/3779
+hexojs/hexo,3764,Duke1048,solve There is a circle icon in front of every <li></li> when ahead o…,https://github.com/hexojs/hexo/pull/3764
+hexojs/hexo,3734,dependabot-preview,chore(deps): update warehouse requirement from ^2.2.0 to ^3.0.0,https://github.com/hexojs/hexo/pull/3734
+hexojs/hexo,3733,YoshinoriN,Example: test of migrate warehouse 3,https://github.com/hexojs/hexo/pull/3733
+hexojs/hexo,3718,curbengh,(WIP) style: prettier,https://github.com/hexojs/hexo/pull/3718
+hexojs/hexo,3694,dependabot-preview,chore(deps): update hexo-util requirement from ^0.6.3 to ^1.0.1,https://github.com/hexojs/hexo/pull/3694
+hexojs/hexo,3684,dependabot-preview,chore(deps-dev): update hexo-renderer-marked requirement from ^1.0.1 to ^2.0.0,https://github.com/hexojs/hexo/pull/3684
+hexojs/hexo,3683,curbengh,chore(appveyor): always update npm,https://github.com/hexojs/hexo/pull/3683
+hexojs/hexo,3682,dependabot-preview,chore(deps): update hexo-util requirement from ^0.6.3 to ^1.0.0,https://github.com/hexojs/hexo/pull/3682
+hexojs/hexo,3679,curbengh,perf(open_graph): replace cheerio with dom-parser,https://github.com/hexojs/hexo/pull/3679
+hexojs/hexo,3673,SukkaW,feat(open_graph): only require moment when (page.updated),https://github.com/hexojs/hexo/pull/3673
+hexojs/hexo,3670,SukkaW,perf(open_graph): only require cheerio when content contains '<img',https://github.com/hexojs/hexo/pull/3670
+hexojs/hexo,3669,curbengh,perf(meta_generator): re-implement as a helper ,https://github.com/hexojs/hexo/pull/3669
+hexojs/hexo,3648,curbengh,test: allow empty attribute,https://github.com/hexojs/hexo/pull/3648
+hexojs/hexo,3613,dependabot-preview,chore(deps-dev): update lint-staged requirement from ^8.1.0 to ^9.0.2,https://github.com/hexojs/hexo/pull/3613
+hexojs/hexo,3609,dependabot-preview,chore(deps-dev): update lint-staged requirement from ^8.1.0 to ^9.0.1,https://github.com/hexojs/hexo/pull/3609
+hexojs/hexo,3607,dependabot-preview,chore(deps-dev): update lint-staged requirement from ^8.1.0 to ^9.0.0,https://github.com/hexojs/hexo/pull/3607
+hexojs/hexo,3604,sKawashima,Fix to use root to export Permalink,https://github.com/hexojs/hexo/pull/3604
+hexojs/hexo,3599,dependabot-preview,chore(deps-dev): update husky requirement from ^1.1.3 to ^2.7.0,https://github.com/hexojs/hexo/pull/3599
+hexojs/hexo,3597,dependabot-preview,chore(deps-dev): update husky requirement from ^1.1.3 to ^2.5.0,https://github.com/hexojs/hexo/pull/3597
+hexojs/hexo,3596,dependabot-preview,chore(deps-dev): update eslint requirement from ^5.9.0 to ^6.0.1,https://github.com/hexojs/hexo/pull/3596
+hexojs/hexo,3593,dependabot-preview,chore(deps-dev): update eslint requirement from ^5.9.0 to ^6.0.0,https://github.com/hexojs/hexo/pull/3593
+hexojs/hexo,3581,dependabot-preview,chore(deps-dev): update husky requirement from ^1.1.3 to ^2.4.1,https://github.com/hexojs/hexo/pull/3581
+hexojs/hexo,3575,dependabot-preview,chore(deps-dev): update husky requirement from ^1.1.3 to ^2.4.0,https://github.com/hexojs/hexo/pull/3575
+hexojs/hexo,3550,dependabot-preview,chore(deps-dev): update husky requirement from ^1.1.3 to ^2.3.0,https://github.com/hexojs/hexo/pull/3550
+hexojs/hexo,3548,dependabot-preview,chore(deps-dev): update hexo-renderer-marked requirement from ^0.3.0 to ^1.0.1,https://github.com/hexojs/hexo/pull/3548
+hexojs/hexo,3545,dependabot-preview,chore(deps-dev): update hexo-renderer-marked requirement from ^0.3.0 to ^1.0.0,https://github.com/hexojs/hexo/pull/3545
+hexojs/hexo,3544,rupertqin,if post.title is empty, set it to post.slug,https://github.com/hexojs/hexo/pull/3544
+hexojs/hexo,3542,dependabot-preview,chore(deps-dev): update husky requirement from ^1.1.3 to ^2.2.0,https://github.com/hexojs/hexo/pull/3542
+hexojs/hexo,3537,dependabot-preview,chore(deps-dev): update husky requirement from ^1.1.3 to ^2.1.0,https://github.com/hexojs/hexo/pull/3537
+hexojs/hexo,3448,honjun,添加bilibili视频标签,https://github.com/hexojs/hexo/pull/3448
+hexojs/hexo,3379,tomap,remove useless file from npm module,https://github.com/hexojs/hexo/pull/3379
+hexojs/hexo,3283,Xaviju,Make default vimeo video responsive and allow strict sizing,https://github.com/hexojs/hexo/pull/3283
+hexojs/hexo,3277,YoshinoriN,Update devDependencies,https://github.com/hexojs/hexo/pull/3277
+hexojs/hexo,3234,OpportunityLiu,Disable highlighting for specific languages,https://github.com/hexojs/hexo/pull/3234
+hexojs/hexo,3210,harderyao,sources,https://github.com/hexojs/hexo/pull/3210
+hexojs/hexo,3162,tangkunyin,add timestamp for post data,https://github.com/hexojs/hexo/pull/3162
+hexojs/hexo,3134,seff,Fix #3077,https://github.com/hexojs/hexo/pull/3134
+hexojs/hexo,3101,segayuu,Fix simple code,https://github.com/hexojs/hexo/pull/3101
+hexojs/hexo,3028,xeres,feat: Improved date formatting.,https://github.com/hexojs/hexo/pull/3028
+hexojs/hexo,2998,segayuu,Add eslint-plugin-node,https://github.com/hexojs/hexo/pull/2998
+hexojs/hexo,2982,richardo2016,robust for url compuation of 'view raw',https://github.com/hexojs/hexo/pull/2982
+hexojs/hexo,2955,ChrisXJH,Fixed #2954,https://github.com/hexojs/hexo/pull/2955
+hexojs/hexo,2953,ChrisXJH,Fixed hexo-disqus-proxy plugin compatibility problem,https://github.com/hexojs/hexo/pull/2953
+hexojs/hexo,2678,jd-carroll,Actually allow plugins to be stored as devDependencies,https://github.com/hexojs/hexo/pull/2678
+hexojs/hexo,2670,tcr,When promisifying, store does not preserve disableNunjucks property,https://github.com/hexojs/hexo/pull/2670
+hexojs/hexo,2641,JLHwung,chore(package-lock): add package lock,https://github.com/hexojs/hexo/pull/2641
+hexojs/hexo,2633,bhaskarmelkani,test: testing appveyor build ,https://github.com/hexojs/hexo/pull/2633
+hexojs/hexo,2592,NoahDragon,Update .travis.yml,https://github.com/hexojs/hexo/pull/2592
+hexojs/hexo,2587,ivan-nginx,Lazy load image support for Next theme.,https://github.com/hexojs/hexo/pull/2587
+hexojs/hexo,2580,popomore,Fix match attribute in pre tag when render hexo tag,https://github.com/hexojs/hexo/pull/2580
+hexojs/hexo,2551,Alex1990,Fix the #2134,https://github.com/hexojs/hexo/pull/2551
+hexojs/hexo,2521,devpaul,fixes Hexo multi-config,https://github.com/hexojs/hexo/pull/2521
+hexojs/hexo,2504,changyuheng,Fix post asset folder issue when link ends with .html,https://github.com/hexojs/hexo/pull/2504
+hexojs/hexo,2478,be5invis,Give option to disable Nunjucks when processing posts.,https://github.com/hexojs/hexo/pull/2478
+hexojs/hexo,2437,unnamed42,One possible fix for #2198,https://github.com/hexojs/hexo/pull/2437
+hexojs/hexo,2407,ghaseminya,add snapshot,https://github.com/hexojs/hexo/pull/2407
+hexojs/hexo,2388,ghaseminya,Hexo with Jalaali Calendar,https://github.com/hexojs/hexo/pull/2388
+hexojs/hexo,2319,seaoak,Allow backtick code block in "blockquote" tag plugin (#2318),https://github.com/hexojs/hexo/pull/2319
+hexojs/hexo,2310,sunzhigang,Merge pull request #1 from tommy351/master,https://github.com/hexojs/hexo/pull/2310
+hexojs/hexo,2206,jerrybendy,修改 jsfiddle 的 test case,https://github.com/hexojs/hexo/pull/2206
+hexojs/hexo,2202,pirtleshell,added inject tag,https://github.com/hexojs/hexo/pull/2202
+hexojs/hexo,2146,tuck182,Return null from hexo.generate,https://github.com/hexojs/hexo/pull/2146
+hexojs/hexo,2142,xuanmingkai,Merge pull request #2 from hexojs/master,https://github.com/hexojs/hexo/pull/2142
+hexojs/hexo,2056,meghprkh,Remove duplicate roots in permalink of post,https://github.com/hexojs/hexo/pull/2056
+hexojs/hexo,2022,aredridel,Add support for npm scoped packages as plugins,https://github.com/hexojs/hexo/pull/2022
+hexojs/hexo,1949,muyunz,fix this.relative_url is not a function,https://github.com/hexojs/hexo/pull/1949
+hexojs/hexo,1937,caolinjian,fix permalink bug,https://github.com/hexojs/hexo/pull/1937
+hexojs/hexo,1896,huangcheng,Added gitlab page support,https://github.com/hexojs/hexo/pull/1896
+hexojs/hexo,1827,raphaklaus,keywords meta seo: Added lean option to tag model,https://github.com/hexojs/hexo/pull/1827
+hexojs/hexo,1766,greg-js,add mark option to code blocks,https://github.com/hexojs/hexo/pull/1766
+hexojs/hexo,1764,greg-js,fix underscore typo for post render tests,https://github.com/hexojs/hexo/pull/1764
+hexojs/hexo,1726,greg-js,fixed eslint and jscs linting issues,https://github.com/hexojs/hexo/pull/1726
+hexojs/hexo,1656,tomByrer,add localhost help v2,https://github.com/hexojs/hexo/pull/1656
+hexojs/hexo,1655,tomByrer,add localhost help,https://github.com/hexojs/hexo/pull/1655
+hexojs/hexo,1624,ksky521,解决code中存在类似swig语法被错误解析的问题,https://github.com/hexojs/hexo/pull/1624
+hexojs/hexo,1580,winterTTr,Fix issue cannot correctly analyze arguments in tag with space ,https://github.com/hexojs/hexo/pull/1580
+hexojs/hexo,1579,winterTTr,Fix the issue that cannot use space in tag arguments,https://github.com/hexojs/hexo/pull/1579
+hexojs/hexo,1557,petergoes,Adds swig-lodash support,https://github.com/hexojs/hexo/pull/1557
+hexojs/hexo,1526,giuseppelt,Fix category path when placed on root,https://github.com/hexojs/hexo/pull/1526
+hexojs/hexo,1428,cazgp,Allow specifying classes of code blocks to be excluded from processing.,https://github.com/hexojs/hexo/pull/1428
+hexojs/hexo,1389,leesei,[helper] add log(),https://github.com/hexojs/hexo/pull/1389
+hexojs/hexo,1376,sfitzpatrick,Steven branch,https://github.com/hexojs/hexo/pull/1376
+hexojs/hexo,1375,automatical,Ac branch,https://github.com/hexojs/hexo/pull/1375
+hexojs/hexo,1325,Xuanwo,Try to fix appveyor failed,https://github.com/hexojs/hexo/pull/1325
+hexojs/hexo,1320,Xuanwo,add https,https://github.com/hexojs/hexo/pull/1320
+hexojs/hexo,1301,iissnan,Fixed is_home() helper which always return false,https://github.com/hexojs/hexo/pull/1301
+hexojs/hexo,1250,WolfgangKluge,Remove the extension from internal links.,https://github.com/hexojs/hexo/pull/1250
+hexojs/hexo,1237,ahaasler,Fix is_post() helper not validating permalinks with language tags,https://github.com/hexojs/hexo/pull/1237
+hexojs/hexo,1218,bubkoo,fixed: issues 1216,https://github.com/hexojs/hexo/pull/1218
+hexojs/hexo,1156,ppoffice,fix child categories duplication issue,https://github.com/hexojs/hexo/pull/1156
+hexojs/hexo,1131,naokiy,fix post.setCategories,https://github.com/hexojs/hexo/pull/1131
+hexojs/hexo,1051,kqkq,Fix search form overlap issue (issue #1050),https://github.com/hexojs/hexo/pull/1051
+hexojs/hexo,997,hxy9243,Adding save files to keep files from generator deletion,https://github.com/hexojs/hexo/pull/997
+hexojs/hexo,996,hxy9243,Adding save files feature to keep files in public folder from deletion,https://github.com/hexojs/hexo/pull/996
+hexojs/hexo,970,slfmessi,Merge pull request #1 from hexojs/master,https://github.com/hexojs/hexo/pull/970
+hexojs/hexo,965,johnmarkos,Add coverage for hexo#init.,https://github.com/hexojs/hexo/pull/965
+hexojs/hexo,947,guiohm,Open graph fully absolute urls support,https://github.com/hexojs/hexo/pull/947
+hexojs/hexo,946,shinnn,Bump deps / Update gulpfile, .travis.yml and .npmignore,https://github.com/hexojs/hexo/pull/946
+hexojs/hexo,945,ioxo,Add locale support to date function,https://github.com/hexojs/hexo/pull/945
+hexojs/hexo,936,RussTheAerialist,Add a configuration option reverse_order for pagination,https://github.com/hexojs/hexo/pull/936
+hexojs/hexo,930,bwinton,Fix typo in this.options for chokidar.,https://github.com/hexojs/hexo/pull/930
+hexojs/hexo,927,kumalee,add gitcafe deployment,https://github.com/hexojs/hexo/pull/927
+hexojs/hexo,926,xing5,Rendering Problems of Code Blocks Contain {{ }},https://github.com/hexojs/hexo/pull/926
+hexojs/hexo,909,phoenixlzx,use UTC date in permalink to prevent url change,https://github.com/hexojs/hexo/pull/909
+hexojs/hexo,904,xing5,Fixed #902: a bug of code block caused by span tags that cross multiple lines.,https://github.com/hexojs/hexo/pull/904
+hexojs/hexo,885,mm--,Fix issue #797, don't render draft assets,https://github.com/hexojs/hexo/pull/885
+hexojs/hexo,877,leopku,add span for more control in tagcloud,https://github.com/hexojs/hexo/pull/877
+hexojs/hexo,861,magicdawn,prevent console.log( http://0.0.0.0:4000 ),https://github.com/hexojs/hexo/pull/861
+hexojs/hexo,843,marvin-zhao,add category prefix,suffix,https://github.com/hexojs/hexo/pull/843
+hexojs/hexo,804,timnew,#802 Escape all symbols in file name and path,https://github.com/hexojs/hexo/pull/804
+hexojs/hexo,795,0ssifrage,fix blank lines for #792 #774,https://github.com/hexojs/hexo/pull/795
+hexojs/hexo,794,0ssifrage,fix blank lines for #792 #774,https://github.com/hexojs/hexo/pull/794
+hexojs/hexo,780,NicholasTD07,Use ul tag to avoid duplicated prefixing indexes.,https://github.com/hexojs/hexo/pull/780
+hexojs/hexo,771,varkadov,Add root path to permalink,https://github.com/hexojs/hexo/pull/771
+hexojs/hexo,767,tommy351,Tab completion,https://github.com/hexojs/hexo/pull/767
+hexojs/hexo,763,xcatliu,ignore node_modules/hexo-theme-* as plugin,https://github.com/hexojs/hexo/pull/763
+hexojs/hexo,709,sergiolepore,fix travis-ci badge on readme,https://github.com/hexojs/hexo/pull/709
+hexojs/hexo,680,andrewboni,Makes Hexo post slug all lowercase by default,https://github.com/hexojs/hexo/pull/680
+hexojs/hexo,573,jr0cket,Add Hexo clean command to the quick start,https://github.com/hexojs/hexo/pull/573
+hexojs/hexo,504,chenall,關於 source_dir and public_dir 自動配置,https://github.com/hexojs/hexo/pull/504
+hexojs/hexo,489,kywk,Add sort_by 'updated' / 'auto',https://github.com/hexojs/hexo/pull/489
+hexojs/hexo,468,shulhi,Added feature to customize server address in console,https://github.com/hexojs/hexo/pull/468
+hexojs/hexo,465,chenall,add helper plugins `list_posts`,`get_posts`,https://github.com/hexojs/hexo/pull/465
+hexojs/hexo,454,chenall,using theme config in source_dir #440,https://github.com/hexojs/hexo/pull/454
+hexojs/hexo,450,kywk,Add page.snippet & page.thumb at Page Variable,https://github.com/hexojs/hexo/pull/450
+hexojs/hexo,449,kywk,Add page.snippet & page.thumb at Page Variable,https://github.com/hexojs/hexo/pull/449
+hexojs/hexo,440,chenall,use $source\_$theme.yml file for theme config,https://github.com/hexojs/hexo/pull/440
+hexojs/hexo,370,xcoderzach,make --safe flag work (fix misspelling),https://github.com/hexojs/hexo/pull/370
+hexojs/hexo,338,sergiolepore,Draft management,https://github.com/hexojs/hexo/pull/338
+hexojs/hexo,290,tommy351,Web UI,https://github.com/hexojs/hexo/pull/290
+hexojs/hexo,289,tommy351,Web UI,https://github.com/hexojs/hexo/pull/289
+hexojs/hexo,246,oncletom,Adding ignore option to ignore a list of elements during the sync,https://github.com/hexojs/hexo/pull/246
+hexojs/hexo,210,sonald,use better escaping in console/new,https://github.com/hexojs/hexo/pull/210
+hexojs/hexo,207,chenzaichun,Fix multi categories slug errors,https://github.com/hexojs/hexo/pull/207
+hexojs/hexo,129,marcosmesser,added cite plugin,https://github.com/hexojs/hexo/pull/129
+hexojs/hexo,123,wd,做了些小的修复,https://github.com/hexojs/hexo/pull/123
+hexojs/hexo,90,Jreen, README.md增加简体中文介绍,https://github.com/hexojs/hexo/pull/90
+hexojs/hexo,83,chrisyip,add catch block to make it works as expected,https://github.com/hexojs/hexo/pull/83
+hexojs/hexo,81,chrisyip,#70 add case option for writing files and folders,https://github.com/hexojs/hexo/pull/81
+hexojs/hexo,68,zhuangya,Refs #64,https://github.com/hexojs/hexo/pull/68
+hexojs/hexo,60,ohsc,Add support to read date from filename when new_post_name was set. ,https://github.com/hexojs/hexo/pull/60
+hexojs/hexo,53,zmmbreeze,Fix a potential bug,https://github.com/hexojs/hexo/pull/53
+hexojs/hexo,32,aetherwu,try fix rsync func.,https://github.com/hexojs/hexo/pull/32
+hexojs/hexo,31,aetherwu,I've trid fix rsync error.,https://github.com/hexojs/hexo/pull/31
