@@ -1,229 +1,231 @@
 project, pr_id, user, pr_title, URL
-eslint/eslint,1315,rajat1saxena,Fix: Initialize ESLint for a TS project by analysing codebase (fixes…,https://github.com/eslint/eslint/pull/1315
-eslint/eslint,1314,steelbrain,Handle throw with no arguments in no-throw-literal,https://github.com/eslint/eslint/pull/1314
-eslint/eslint,1311,kaicataldo,testing bot - please do not merge,https://github.com/eslint/eslint/pull/1311
-eslint/eslint,1309,cesarguillotel,Fix: Set esquery to 1.1.x for ESLint v4,https://github.com/eslint/eslint/pull/1309
-eslint/eslint,1308,d4nyll,Fix: Fix esquery to 1.1.x for ESLint v5.16.0 (Fixes #13081),https://github.com/eslint/eslint/pull/1308
-eslint/eslint,1307,npdev453,Update: new option singleline-if in padding-line-between-statements,https://github.com/eslint/eslint/pull/1307
-eslint/eslint,1306,loeffel-io,New: add ls-lint,https://github.com/eslint/eslint/pull/1306
-eslint/eslint,1305,FanFataL,Update: Backticks as an escape for both of the single and double-quote,https://github.com/eslint/eslint/pull/1305
-eslint/eslint,1305,evanplaice,Fix: Backport removal of mkdirp to 6.x (fixes #13050),https://github.com/eslint/eslint/pull/1305
-eslint/eslint,1303,anikethsaha,Fix: consistencies with docs default and rule,https://github.com/eslint/eslint/pull/1303
-eslint/eslint,1301,anikethsaha,Chore: fixed PR template format for list,https://github.com/eslint/eslint/pull/1301
-eslint/eslint,1301,ahoseinian,Fix confusing error message.,https://github.com/eslint/eslint/pull/1301
-eslint/eslint,1301,Zarel,Docs: Add note about no-extend-native in guard-for-in,https://github.com/eslint/eslint/pull/1301
-eslint/eslint,1300,pygy,Saner bounds for max-classes-per-file,https://github.com/eslint/eslint/pull/1300
-eslint/eslint,1300,yeonjuan,Update: add checking static value in no-throw-literal,https://github.com/eslint/eslint/pull/1300
-eslint/eslint,1298,KyusungDev,Chore: Remove duplicate parserOptions,https://github.com/eslint/eslint/pull/1298
-eslint/eslint,1298,Caryyon,Issue12900,https://github.com/eslint/eslint/pull/1298
-eslint/eslint,1295,papandreou,Fix markdown for the issue and PR templates,https://github.com/eslint/eslint/pull/1295
-eslint/eslint,1293,Caryyon,Docs: rewrote allowArrowFunction option /w declaration (fixes #12900),https://github.com/eslint/eslint/pull/1293
-eslint/eslint,1292,markokajzer,New: Add autofix to "default-case" rule,https://github.com/eslint/eslint/pull/1292
-eslint/eslint,1292,markokajzer,New: Add autofix to "default-case" rule,https://github.com/eslint/eslint/pull/1292
-eslint/eslint,1290,kaicataldo,Update: no-sequences requires parens in assignment position,https://github.com/eslint/eslint/pull/1290
-eslint/eslint,1289,simwipado,Fix: fix no-shadow false-positives (fixes #12687),https://github.com/eslint/eslint/pull/1289
-eslint/eslint,1289,simwipado,Fix: Fix no-shadow rule giving false positives (fixes #12687),https://github.com/eslint/eslint/pull/1289
-eslint/eslint,1269,nikkhn,Docs: Add spacing in comments for no-console rules,https://github.com/eslint/eslint/pull/1269
-eslint/eslint,1267,Standard8,Add 'globalThis' to the list of es2020 globals (#12670),https://github.com/eslint/eslint/pull/1267
-eslint/eslint,1265,yeonjuan,Fix: uglified autofix in key-spacing (fixes #11414),https://github.com/eslint/eslint/pull/1265
-eslint/eslint,1262,Gvozd,Disable `functions` option if used object option, and `ecmaVersion: 5`,https://github.com/eslint/eslint/pull/1262
-eslint/eslint,1255,g-plane,New: support specifying extensions in the config (fixes #10828),https://github.com/eslint/eslint/pull/1255
-eslint/eslint,1255,aladdin-add,Chore: add package.json funding property,https://github.com/eslint/eslint/pull/1255
-eslint/eslint,1253,jayrylan,Allow $schema property in configuration,https://github.com/eslint/eslint/pull/1253
-eslint/eslint,1253,yeonjuan,Computed property spacing,https://github.com/eslint/eslint/pull/1253
-eslint/eslint,1251,Aile13,Test,https://github.com/eslint/eslint/pull/1251
-eslint/eslint,1250,alok46,Update package.json,https://github.com/eslint/eslint/pull/1250
-eslint/eslint,1249,vsemozhetbyt,Docs: fix typos in no-param-reassign code example,https://github.com/eslint/eslint/pull/1249
-eslint/eslint,1248,Tarang-singhal,changes,https://github.com/eslint/eslint/pull/1248
-eslint/eslint,1248,dmitryrn,Update: Disable require-await for async generators (fixes #12459),https://github.com/eslint/eslint/pull/1248
-eslint/eslint,1247,chandimary,added something to the rules,https://github.com/eslint/eslint/pull/1247
-eslint/eslint,1244,RsPlayer,Fix: added react configuration in eslint init,https://github.com/eslint/eslint/pull/1244
-eslint/eslint,1243,nchutchind,Fix: Add check to avoid null reference. (fixes #12430),https://github.com/eslint/eslint/pull/1243
-eslint/eslint,1240,gamtiq,Update: Add consistent option to computed-property-spacing,https://github.com/eslint/eslint/pull/1240
-eslint/eslint,1240,KomalShahzadi,rule proposal,https://github.com/eslint/eslint/pull/1240
-eslint/eslint,1239,shanuksha,Updated README.md,https://github.com/eslint/eslint/pull/1239
-eslint/eslint,1238,Eoghan-K,Docs: Documentation fix for max-depth,https://github.com/eslint/eslint/pull/1238
-eslint/eslint,1238,nambikai,Docs: Fixed max-depth example (fixes #119911),https://github.com/eslint/eslint/pull/1238
-eslint/eslint,1238,nambikai,fixed max-depth example in documentation,https://github.com/eslint/eslint/pull/1238
-eslint/eslint,1237,cherryblossom000,Chore: Fix pull request template checkboxes,https://github.com/eslint/eslint/pull/1237
-eslint/eslint,1236,gabrieldrs,Update: no-path-concat rule checks template literals (fixes #12323),https://github.com/eslint/eslint/pull/1236
-eslint/eslint,1235,Mahesh419,fixes issue #11991,https://github.com/eslint/eslint/pull/1235
-eslint/eslint,1235,ek5000,Fix: consistent-return incorrectly reports for generators (fixes #11371),https://github.com/eslint/eslint/pull/1235
-eslint/eslint,1234,IgorNovozhilov,Update: rule 'lines-around-comment' - add 'false' options,https://github.com/eslint/eslint/pull/1234
-eslint/eslint,1233,jmrossy,Remove misleading example from no-return-await,https://github.com/eslint/eslint/pull/1233
-eslint/eslint,1233,GeoffreyBooth,Fix: Load CommonJS .eslintrc.js files within a "type": "module" package scope (fixes #12319),https://github.com/eslint/eslint/pull/1233
-eslint/eslint,1230,derjones,New: Rule class-methods-use-this option exceptMethods accepts regex,https://github.com/eslint/eslint/pull/1230
-eslint/eslint,1229,SebastienGllmt,New: Add no-floating-promise rule,https://github.com/eslint/eslint/pull/1229
-eslint/eslint,1229,yacmeno,Fix: Added extends value in initializer for react,https://github.com/eslint/eslint/pull/1229
-eslint/eslint,1226,mdjermanovic,Update: Array.prototype.flatMap in array-callback-return (fixes #12235),https://github.com/eslint/eslint/pull/1226
-eslint/eslint,1224,christianbundy,New: add rule no-unexpected-start,https://github.com/eslint/eslint/pull/1224
-eslint/eslint,1222,christianbundy,Update: Add allowAsiHazardAfter option to semi,https://github.com/eslint/eslint/pull/1222
-eslint/eslint,1219,Gaafar,New: Allow parallel linting in child processes (fixes #3565),https://github.com/eslint/eslint/pull/1219
-eslint/eslint,1214,Validark,Automatically remove `eslint-plugin-` from ruleId's in linter.js,https://github.com/eslint/eslint/pull/1214
-eslint/eslint,1211,platinumazure,Chore: Try pinning espree dependency,https://github.com/eslint/eslint/pull/1211
-eslint/eslint,1206,jamesgeorge007,New: Adds new info flag,https://github.com/eslint/eslint/pull/1206
-eslint/eslint,1204,mdjermanovic,Fix: key-spacing shouldn't report object pattern properties,https://github.com/eslint/eslint/pull/1204
-eslint/eslint,1204,mdjermanovic,Fix: quote-props shouldn't report object pattern properties,https://github.com/eslint/eslint/pull/1204
-eslint/eslint,1203,christianbundy,Update: auto-fix global strict mode (fixes #12034),https://github.com/eslint/eslint/pull/1203
-eslint/eslint,1202,fa93hws,Chore: pass cwd from cli engine,https://github.com/eslint/eslint/pull/1202
-eslint/eslint,1200,imai0917,Docs: Fix incorrect example for max-depth rule (#11991),https://github.com/eslint/eslint/pull/1200
-eslint/eslint,1198,fa93hws,New: Enable snapshot test for rule tester,https://github.com/eslint/eslint/pull/1198
-eslint/eslint,1198,mysticatea,Fix: no-new-wrappers reports only wrappers,https://github.com/eslint/eslint/pull/1198
-eslint/eslint,1198,mdjermanovic,New: no-lexical-globals rule,https://github.com/eslint/eslint/pull/1198
-eslint/eslint,1196,phenomnomnominal,New: Fix for "no-useless-constructor" (fixes #11693),https://github.com/eslint/eslint/pull/1196
-eslint/eslint,1196,fa93hws,Chore: export checkBinary in space-infix-ops,https://github.com/eslint/eslint/pull/1196
-eslint/eslint,1196,mdjermanovic,New: prefer-async-await rule (fixes #9649),https://github.com/eslint/eslint/pull/1196
-eslint/eslint,1196,manniL,New: add prefer-async-await rule,https://github.com/eslint/eslint/pull/1196
-eslint/eslint,1191,mdjermanovic,Fix: curly errors with lexical and function declarations (fixes #11908),https://github.com/eslint/eslint/pull/1191
-eslint/eslint,1190,mattrabe,Update: Disallow gremlin chars in no-irregular-whitespace,https://github.com/eslint/eslint/pull/1190
-eslint/eslint,1189,fa93hws,Fix: enable getJSDocComment for ObjectExpression (fixes: 11898),https://github.com/eslint/eslint/pull/1189
-eslint/eslint,1188,nevir,Bug: nested plugins cannot be found when nested in a shared config (6.0.0),https://github.com/eslint/eslint/pull/1188
-eslint/eslint,1187,aladdin-add,Build: update entry in webpack config (fixes #11873),https://github.com/eslint/eslint/pull/1187
-eslint/eslint,1185,WaldoJeffers,fix: Cannot read property 'range' of null error with indent,https://github.com/eslint/eslint/pull/1185
-eslint/eslint,1185,yoyo837,fix checkbox,https://github.com/eslint/eslint/pull/1185
-eslint/eslint,1185,yoyo837,fix typo,https://github.com/eslint/eslint/pull/1185
-eslint/eslint,1185,OliverSieweke,Fix: no-param-reassign schema (fixes #11837),https://github.com/eslint/eslint/pull/1185
-eslint/eslint,1184,eschaefer,New: add rule no-misspelled-length,https://github.com/eslint/eslint/pull/1184
-eslint/eslint,1181,thecotne,Update: in quote-props rule allow consistent-as-needed with numbers option (fixes #8093),https://github.com/eslint/eslint/pull/1181
-eslint/eslint,1181,brettz9,Breaking: Let `no-new-object` pass with arguments (fixes #11810),https://github.com/eslint/eslint/pull/1181
-eslint/eslint,1180,codetriage-readme-bot,Add CodeTriage badge to eslint/eslint,https://github.com/eslint/eslint/pull/1180
-eslint/eslint,1179,bluelovers,Update: Support ignore in no-irregular-whitespace,https://github.com/eslint/eslint/pull/1179
-eslint/eslint,1178,IgorNovozhilov,Update: rule 'padding-line-between-statements' - add number of lines,https://github.com/eslint/eslint/pull/1178
-eslint/eslint,1178,lusinga,Merge pull request #1 from eslint/master,https://github.com/eslint/eslint/pull/1178
-eslint/eslint,1174,dimitropoulos,Chore: `leave` only takes one argument: `node`,https://github.com/eslint/eslint/pull/1174
-eslint/eslint,1173,IgorNovozhilov,New: Add events in CLIEngine (fileVerify),https://github.com/eslint/eslint/pull/1173
-eslint/eslint,1173,mysticatea,Fix: allow package name in parser in RuleTester (fixes #11728),https://github.com/eslint/eslint/pull/1173
-eslint/eslint,1172,dandv,Add prefer-const to eslint:recommended,https://github.com/eslint/eslint/pull/1172
-eslint/eslint,1172,tkvlnk,New: Added new force cli option ( refs #6882 ),https://github.com/eslint/eslint/pull/1172
-eslint/eslint,1170,mysticatea,Chore: update .travis.yml,https://github.com/eslint/eslint/pull/1170
-eslint/eslint,1169,IgorNovozhilov,Update: Uniform messages for the rules in "complexity" section,https://github.com/eslint/eslint/pull/1169
-eslint/eslint,1167,AlokTakshak,Docs: fix example of ImportDeclaration in indent-rule docs,https://github.com/eslint/eslint/pull/1167
-eslint/eslint,1159,platinumazure,Fix: Smarter no-var autofix to avoid breaking TS code (fixes #11594),https://github.com/eslint/eslint/pull/1159
-eslint/eslint,1159,nemoload,Docs: fixed a typo in the no-console docs,https://github.com/eslint/eslint/pull/1159
-eslint/eslint,1157,pugnascotia,Fix: do not require backticks in type annotations,https://github.com/eslint/eslint/pull/1157
-eslint/eslint,1157,not-an-aardvark,New: add rule to disallow bugs in source code,https://github.com/eslint/eslint/pull/1157
-eslint/eslint,1156,jahorwitz,Update: added ignoreTabsOnComments option to no-tabs rule (fixes #11562),https://github.com/eslint/eslint/pull/1156
-eslint/eslint,1156,szb512,Change the docs,https://github.com/eslint/eslint/pull/1156
-eslint/eslint,1154,MilesZew,Update: Added new "skipNested" option to "max-lines-per-function" rule,https://github.com/eslint/eslint/pull/1154
-eslint/eslint,1149,MikeBeaton,Update: linebreak-style.md tentative proposal (fixes #11458),https://github.com/eslint/eslint/pull/1149
-eslint/eslint,1149,aladdin-add,Breaking: validate parserOptions (fixes #9687),https://github.com/eslint/eslint/pull/1149
-eslint/eslint,1148,montmanu,New: Add `--cache-strategy` CLI option (refs #11319),https://github.com/eslint/eslint/pull/1148
-eslint/eslint,1147,aladdin-add,Chore: enable prefer-named-capture-group in eslint codebase,https://github.com/eslint/eslint/pull/1147
-eslint/eslint,1145,akirilyuk,Docs: update global require documentation to match new eslint-disable-next-line syntax,https://github.com/eslint/eslint/pull/1145
-eslint/eslint,1143,g-plane,Fix: not to report if `undefined` is re-assigned (fixes #11438),https://github.com/eslint/eslint/pull/1143
-eslint/eslint,1143,aladdin-add,wip:Breaking: throw an error when disable a non-existent rule in a config (refs #9505),https://github.com/eslint/eslint/pull/1143
-eslint/eslint,1142,not-an-aardvark,Chore: lint karma.conf.js and webpack.config.js,https://github.com/eslint/eslint/pull/1142
-eslint/eslint,1140,yinzara,Update: Add --no-warn-ignored CLI option to suppress ignored file warnings (fixes #9977),https://github.com/eslint/eslint/pull/1140
-eslint/eslint,1138,g-plane,Docs: add more examples in no-plusplus,https://github.com/eslint/eslint/pull/1138
-eslint/eslint,1136,gwer,Update: single argument on newline with function-paren-newline multiline,https://github.com/eslint/eslint/pull/1136
-eslint/eslint,1135,aladdin-add,Chore: fix exports in comma-dangle tests,https://github.com/eslint/eslint/pull/1135
-eslint/eslint,1133,not-an-aardvark,Chore: remove tools/rule-types.json,https://github.com/eslint/eslint/pull/1133
-eslint/eslint,1133,vermiceli,Docs: Fixes incorrect example,https://github.com/eslint/eslint/pull/1133
-eslint/eslint,1132,vermiceli,Docs: Fix no-restricted-global example & clarify params,https://github.com/eslint/eslint/pull/1132
-eslint/eslint,1129,yaodingyd,Fix: use option.cwd to resolve shared config,https://github.com/eslint/eslint/pull/1129
-eslint/eslint,1127,cktang88,Chore: Bump file-entry-cache version,https://github.com/eslint/eslint/pull/1127
-eslint/eslint,1126,lingxiaoguang,Update: make the rule 'no-sync' more exact,https://github.com/eslint/eslint/pull/1126
-eslint/eslint,1125,aladdin-add,wip:Fix: load parser after applyExtends() was called (fixes #11240),https://github.com/eslint/eslint/pull/1125
-eslint/eslint,1124,eyal0803,Add npx usage to Getting Started docs,https://github.com/eslint/eslint/pull/1124
-eslint/eslint,1122,jimjenkins5,New: Add option 'allowSingleLineArrow' to brace-style (fixes #11217),https://github.com/eslint/eslint/pull/1122
-eslint/eslint,1121,wood1986,New: Add fixedCount for indicating eslint has fixed something/nothing,https://github.com/eslint/eslint/pull/1121
-eslint/eslint,1121,bmish,New: implement 'require-await-function-call' rule.,https://github.com/eslint/eslint/pull/1121
-eslint/eslint,1118,larsgw,Breaking: allow comments after no-fallthrough (fixes #10608),https://github.com/eslint/eslint/pull/1118
-eslint/eslint,1118,futagoza, Update: Identify multi-case statements (fixes #11178),https://github.com/eslint/eslint/pull/1118
-eslint/eslint,1116,bmish,Update: add fixer to require-await rule.,https://github.com/eslint/eslint/pull/1116
-eslint/eslint,1115,nzakas,Build: Add fetch team data during gensite (fixes eslint/eslint.github.io#515),https://github.com/eslint/eslint/pull/1115
-eslint/eslint,1114,aladdin-add,wip: Chore: switch to eslint-plugin-jsdoc (refs #11146),https://github.com/eslint/eslint/pull/1114
-eslint/eslint,1113,vapier,prefer-object-spread: add an example for setting default values,https://github.com/eslint/eslint/pull/1113
-eslint/eslint,1110,romainwn,fix: update PR template witch checboxes,https://github.com/eslint/eslint/pull/1110
-eslint/eslint,1110,getify,Fix: Allow escaped whitespace in paths for config initialization (fixes #11099),https://github.com/eslint/eslint/pull/1110
-eslint/eslint,1107,grumd,Add an option to auto-add "eslint-ignore" comments for all unfixable errors,https://github.com/eslint/eslint/pull/1107
-eslint/eslint,1107,captain-yossarian,Fix: prevent fixing to incorrect code (fixes #11069),https://github.com/eslint/eslint/pull/1107
-eslint/eslint,1107,platinumazure,Docs: Reorder Node.js API sections,https://github.com/eslint/eslint/pull/1107
-eslint/eslint,1103,SaladFork,New: Add prefer-async-await rule (fixes #9649),https://github.com/eslint/eslint/pull/1103
-eslint/eslint,1102,cdaringe,Update: Add support for filename baseConfig,https://github.com/eslint/eslint/pull/1102
-eslint/eslint,1101,evelynhathaway,Fix: Allow fallthrough comment in case block (fixes #9559),https://github.com/eslint/eslint/pull/1101
-eslint/eslint,1100,leinelissen,Update: require-jsdoc exceptions,https://github.com/eslint/eslint/pull/1100
-eslint/eslint,1099,david-mitchell,Update: Require JSDoc comments only on exported properties (fixes #7812),https://github.com/eslint/eslint/pull/1099
-eslint/eslint,1099,flyerhzm,New: List target files (fixes #11005),https://github.com/eslint/eslint/pull/1099
-eslint/eslint,1097,sumleo,Chore: Refactor and optimize combineArrays,https://github.com/eslint/eslint/pull/1097
-eslint/eslint,1094,nakulpathak3,Docs: Move multi-str operator to new line to avoid other warning,https://github.com/eslint/eslint/pull/1094
-eslint/eslint,1094,marudor,Fix: OptionalCallExpression for no-unused-expressions (fixes #10939),https://github.com/eslint/eslint/pull/1094
-eslint/eslint,1092,cotonne,Update: replace stacktrace by a clear message when invalid plugins are provided (fixes #10927),https://github.com/eslint/eslint/pull/1092
-eslint/eslint,1092,cotonne,Replace stacktrace by a clean message when invalid plugins are provided (array, object),https://github.com/eslint/eslint/pull/1092
-eslint/eslint,1092,madbence,Update: Ignore type aliases in space-infix-ops (fixes #10922),https://github.com/eslint/eslint/pull/1092
-eslint/eslint,1091,aladdin-add,wip: Update: rule curly supports overrides (fixes #5975),https://github.com/eslint/eslint/pull/1091
-eslint/eslint,1091,gettaplay,improve README.md,https://github.com/eslint/eslint/pull/1091
-eslint/eslint,1089,tmccary9207,Update no-eq-null.md,https://github.com/eslint/eslint/pull/1089
-eslint/eslint,1089,jeremiegourovitch,New: Add the exclude function name option.,https://github.com/eslint/eslint/pull/1089
-eslint/eslint,1088,Kefir100,New: Add no-hardcoded-values rule,https://github.com/eslint/eslint/pull/1088
-eslint/eslint,1086,villesau,Fix: optional chain camelcase rule fix (fixes #10848),https://github.com/eslint/eslint/pull/1086
-eslint/eslint,1083,graingert,New: support subclassing RuleTester to override it/describe Fixes #10834,https://github.com/eslint/eslint/pull/1083
-eslint/eslint,1082,helixbass,New: custom parser hook for code path analysis,https://github.com/eslint/eslint/pull/1082
-eslint/eslint,1081,not-an-aardvark,Docs: allow offline TSC votes,https://github.com/eslint/eslint/pull/1081
-eslint/eslint,1079,brokentone,Fix: getJSDocComment - Try using looser "Property" as a fence,https://github.com/eslint/eslint/pull/1079
-eslint/eslint,1077,Mouvedia,New: Add yui environment,https://github.com/eslint/eslint/pull/1077
-eslint/eslint,1075,zo0ok,Update no-confusing-arrow.md,https://github.com/eslint/eslint/pull/1075
-eslint/eslint,1075,jankhunter,New: Rule to find layout-thrashing in your code,https://github.com/eslint/eslint/pull/1075
-eslint/eslint,1074,ajafff,Docs: remove outdated note about caching only valid files (fixes #10739),https://github.com/eslint/eslint/pull/1074
-eslint/eslint,1073,pkuczynski,Docs: formatting of the compatibility section,https://github.com/eslint/eslint/pull/1073
-eslint/eslint,1073,pkuczynski,Docs: remove links to terminated jscs.info domain,https://github.com/eslint/eslint/pull/1073
-eslint/eslint,1073,realityking,Update: Bump inquirer to version 6,https://github.com/eslint/eslint/pull/1073
-eslint/eslint,1072,aladdin-add,wip: Chore: simplify config validation in rule-tester,https://github.com/eslint/eslint/pull/1072
-eslint/eslint,1071,aladdin-add,Chore: simplify the usage of config-validator,https://github.com/eslint/eslint/pull/1071
-eslint/eslint,1071,aladdin-add,Chore: simplify schemas validation in rule-tester,https://github.com/eslint/eslint/pull/1071
-eslint/eslint,1071,IceDune,Fix: no-restricted-globals crash with "hasOwnProperty" (fixes #10660),https://github.com/eslint/eslint/pull/1071
-eslint/eslint,1070,BenRuns,Update: Adds --console-format cli option,https://github.com/eslint/eslint/pull/1070
-eslint/eslint,1070,pantosha,Update: add fixer for no-useless-escape (fixes #10700),https://github.com/eslint/eslint/pull/1070
-eslint/eslint,1069,BenRuns,Add ability to console out a specified format while saving to a file,https://github.com/eslint/eslint/pull/1069
-eslint/eslint,1067,pure-js,Update README.md,https://github.com/eslint/eslint/pull/1067
-eslint/eslint,1065,revolter,Update: Allow the noun version of fall through too,https://github.com/eslint/eslint/pull/1065
-eslint/eslint,1065,mbildner,Update: addresses #9947,https://github.com/eslint/eslint/pull/1065
-eslint/eslint,1065,revolter,Fix: Fix formatting in Pull Request GitHub template,https://github.com/eslint/eslint/pull/1065
-eslint/eslint,1064,aladdin-add,Build: remove polyfill from browserified eslint,https://github.com/eslint/eslint/pull/1064
-eslint/eslint,1062,aladdin-add,Chore: rm some unnecessary Object.freeze(),https://github.com/eslint/eslint/pull/1062
-eslint/eslint,1062,realityking,Update: regexpp@2.0.0,https://github.com/eslint/eslint/pull/1062
-eslint/eslint,1060,pantosha,Fix: SourceCodeFixer apply sequential ranges (fixes #10601),https://github.com/eslint/eslint/pull/1060
-eslint/eslint,1057,aladdin-add,New: display beginner-friendly message if Node version is below(fixes #10549),https://github.com/eslint/eslint/pull/1057
-eslint/eslint,1051,MrKou47,Fix: empty object (fixes #10514),https://github.com/eslint/eslint/pull/1051
-eslint/eslint,1051,MrKou47,fix token === null error,https://github.com/eslint/eslint/pull/1051
-eslint/eslint,1049,zhujinxuan,Fix a semicolon-less bug in padding-line-between-statements,https://github.com/eslint/eslint/pull/1049
-eslint/eslint,1048,zhujinxuan,Add rule padded-multilines,https://github.com/eslint/eslint/pull/1048
-eslint/eslint,1048,greysteil,Add SemVer compatibility badge to README,https://github.com/eslint/eslint/pull/1048
-eslint/eslint,1047,tinymins,Update: add propertiesPattern for id-match rule,https://github.com/eslint/eslint/pull/1047
-eslint/eslint,1047,tinymins,Update: add allow underscores options to camelcase rule.,https://github.com/eslint/eslint/pull/1047
-eslint/eslint,1045,zeorin,Update: allowAlternate option for no-nested-ternary (fixes #10321),https://github.com/eslint/eslint/pull/1045
-eslint/eslint,1044,saveman71,Update: no-magic-numbers should ignore parseFloat (fixes #10445),https://github.com/eslint/eslint/pull/1044
-eslint/eslint,1041,ghost,ESLINT,https://github.com/eslint/eslint/pull/1041
-eslint/eslint,1039,Hypnosphi,Support proposal-nullish-coalescing-operator,https://github.com/eslint/eslint/pull/1039
-eslint/eslint,1039,aladdin-add,Breaking: not ignore files beginning with a dot(fixes #10341),https://github.com/eslint/eslint/pull/1039
-eslint/eslint,1039,aladdin-add,wip: Build: Browserify => parcel (refs #9478),https://github.com/eslint/eslint/pull/1039
-eslint/eslint,1036,jeemok,Fix: Update dependencies version for better security,https://github.com/eslint/eslint/pull/1036
-eslint/eslint,1031,chengjianhua,Chore: resolve the relative configuration file by the strategy how node resolves a .js module,https://github.com/eslint/eslint/pull/1031
-eslint/eslint,1031,chengjianhua,Chore: resolve the relative configuration file by the strategy how node resolves the .js file,https://github.com/eslint/eslint/pull/1031
-eslint/eslint,1030,ilyavolodin,Chore: Update issue templates,https://github.com/eslint/eslint/pull/1030
-eslint/eslint,1030,platinumazure,WIP: (POC) Node version runtime checks,https://github.com/eslint/eslint/pull/1030
-eslint/eslint,1030,ahmadassaf,Update: enable shorthand strings for arrow-spacing rule,https://github.com/eslint/eslint/pull/1030
-eslint/eslint,1030,yinonc,Fix: no-throw-literal fix option (fixes #10296),https://github.com/eslint/eslint/pull/1030
-eslint/eslint,1029,yinonc,issue10296|adding fix for no-throw-literal,https://github.com/eslint/eslint/pull/1029
-eslint/eslint,1029,graingert,fix 'no-multiple-empty-lines'.maxEOF out by one,https://github.com/eslint/eslint/pull/1029
-eslint/eslint,1026,mickaelchanrion,Fix: Junit formatter handles better warnings/errors (fixes #10266),https://github.com/eslint/eslint/pull/1026
-eslint/eslint,1026,mickaelchanrion,Fix: Junit formatter handles better warnings/errors (fixes #10266),https://github.com/eslint/eslint/pull/1026
-eslint/eslint,1023,stevenvachon,Fine grain `one-var` config,https://github.com/eslint/eslint/pull/1023
-eslint/eslint,1023,stevenvachon,Support for more detail in `one-var`,https://github.com/eslint/eslint/pull/1023
-eslint/eslint,1022,romainwn,fix typo,https://github.com/eslint/eslint/pull/1022
-eslint/eslint,1016,aladdin-add,wip: Fix: throw an error when disable a non-existent rule (fixes #9505),https://github.com/eslint/eslint/pull/1016
-eslint/eslint,1016,aladdin-add,wip: Update: allow custom styleguide when init (fixes #10132),https://github.com/eslint/eslint/pull/1016
-eslint/eslint,1016,aladdin-add,Fix: rm unnecessary /i in config-validator,https://github.com/eslint/eslint/pull/1016
-eslint/eslint,1015,epoberezkin,Update ajv to the latest version,https://github.com/eslint/eslint/pull/1015
-eslint/eslint,1013,edahlseng,Update: Fallback to no prefix when searching for eslint-config modules,https://github.com/eslint/eslint/pull/1013
-eslint/eslint,1012,NMinhNguyen,Fix: `no-unused-vars` false positive on default params (fixes #10124),https://github.com/eslint/eslint/pull/1012
-eslint/eslint,1008,safaiyeh,Docs: Updated no-nested-ternary.md, simplified code of the correct example,https://github.com/eslint/eslint/pull/1008
-eslint/eslint,1007,hulkish,Replaced babel-code-frame with @babel/code-frame, enabled highlightCode,https://github.com/eslint/eslint/pull/1007
-eslint/eslint,1005,jaydenseric,Update: Add mjs to --ext default (fixes #9592),https://github.com/eslint/eslint/pull/1005
-eslint/eslint,1005,steabert,Fix: silently skip non-existing files (fixes #10039),https://github.com/eslint/eslint/pull/1005
-eslint/eslint,1003,not-an-aardvark,Chore: improve autofix performance (fixes #9998),https://github.com/eslint/eslint/pull/1003
-eslint/eslint,1001,blake-regalia,Update: Add option `"maxConcat"` to `prefer-template` rule (fixes #10017),https://github.com/eslint/eslint/pull/1001
-eslint/eslint,1001,blake-regalia,Update: Allow for no lines around comments before else (fixes #10015),https://github.com/eslint/eslint/pull/1001
+eslint/eslint,13251,revelt,Docs: update linter.verifyAndFix docs,https://github.com/eslint/eslint/pull/13251
+eslint/eslint,13213,aladdin-add,Build: add node v14,https://github.com/eslint/eslint/pull/13213
+eslint/eslint,13150,rajat1saxena,Fix: Initialize ESLint for a TS project by analysing codebase (fixes…,https://github.com/eslint/eslint/pull/13150
+eslint/eslint,13143,steelbrain,Handle throw with no arguments in no-throw-literal,https://github.com/eslint/eslint/pull/13143
+eslint/eslint,13112,kaicataldo,testing bot - please do not merge,https://github.com/eslint/eslint/pull/13112
+eslint/eslint,13091,cesarguillotel,Fix: Set esquery to 1.1.x for ESLint v4,https://github.com/eslint/eslint/pull/13091
+eslint/eslint,13082,d4nyll,Fix: Fix esquery to 1.1.x for ESLint v5.16.0 (Fixes #13081),https://github.com/eslint/eslint/pull/13082
+eslint/eslint,13072,npdev453,Update: new option singleline-if in padding-line-between-statements,https://github.com/eslint/eslint/pull/13072
+eslint/eslint,13068,loeffel-io,New: add ls-lint,https://github.com/eslint/eslint/pull/13068
+eslint/eslint,13056,FanFataL,Update: Backticks as an escape for both of the single and double-quote,https://github.com/eslint/eslint/pull/13056
+eslint/eslint,13051,evanplaice,Fix: Backport removal of mkdirp to 6.x (fixes #13050),https://github.com/eslint/eslint/pull/13051
+eslint/eslint,13035,anikethsaha,Fix: consistencies with docs default and rule,https://github.com/eslint/eslint/pull/13035
+eslint/eslint,13018,anikethsaha,Chore: fixed PR template format for list,https://github.com/eslint/eslint/pull/13018
+eslint/eslint,13014,ahoseinian,Fix confusing error message.,https://github.com/eslint/eslint/pull/13014
+eslint/eslint,13011,Zarel,Docs: Add note about no-extend-native in guard-for-in,https://github.com/eslint/eslint/pull/13011
+eslint/eslint,13007,pygy,Saner bounds for max-classes-per-file,https://github.com/eslint/eslint/pull/13007
+eslint/eslint,13002,yeonjuan,Update: add checking static value in no-throw-literal,https://github.com/eslint/eslint/pull/13002
+eslint/eslint,12988,KyusungDev,Chore: Remove duplicate parserOptions,https://github.com/eslint/eslint/pull/12988
+eslint/eslint,12985,Caryyon,Issue12900,https://github.com/eslint/eslint/pull/12985
+eslint/eslint,12953,papandreou,Fix markdown for the issue and PR templates,https://github.com/eslint/eslint/pull/12953
+eslint/eslint,12933,Caryyon,Docs: rewrote allowArrowFunction option /w declaration (fixes #12900),https://github.com/eslint/eslint/pull/12933
+eslint/eslint,12925,markokajzer,New: Add autofix to "default-case" rule,https://github.com/eslint/eslint/pull/12925
+eslint/eslint,12921,markokajzer,New: Add autofix to "default-case" rule,https://github.com/eslint/eslint/pull/12921
+eslint/eslint,12908,kaicataldo,Update: no-sequences requires parens in assignment position,https://github.com/eslint/eslint/pull/12908
+eslint/eslint,12891,simwipado,Fix: fix no-shadow false-positives (fixes #12687),https://github.com/eslint/eslint/pull/12891
+eslint/eslint,12890,simwipado,Fix: Fix no-shadow rule giving false positives (fixes #12687),https://github.com/eslint/eslint/pull/12890
+eslint/eslint,12695,nikkhn,Docs: Add spacing in comments for no-console rules,https://github.com/eslint/eslint/pull/12695
+eslint/eslint,12671,Standard8,Add 'globalThis' to the list of es2020 globals (#12670),https://github.com/eslint/eslint/pull/12671
+eslint/eslint,12651,yeonjuan,Fix: uglified autofix in key-spacing (fixes #11414),https://github.com/eslint/eslint/pull/12651
+eslint/eslint,12624,Gvozd,Disable `functions` option if used object option, and `ecmaVersion: 5`,https://github.com/eslint/eslint/pull/12624
+eslint/eslint,12555,g-plane,New: support specifying extensions in the config (fixes #10828),https://github.com/eslint/eslint/pull/12555
+eslint/eslint,12552,aladdin-add,Chore: add package.json funding property,https://github.com/eslint/eslint/pull/12552
+eslint/eslint,12532,jrylan,Allow $schema property in configuration,https://github.com/eslint/eslint/pull/12532
+eslint/eslint,12531,yeonjuan,Computed property spacing,https://github.com/eslint/eslint/pull/12531
+eslint/eslint,12516,Aile13,Test,https://github.com/eslint/eslint/pull/12516
+eslint/eslint,12506,alok46,Update package.json,https://github.com/eslint/eslint/pull/12506
+eslint/eslint,12494,vsemozhetbyt,Docs: fix typos in no-param-reassign code example,https://github.com/eslint/eslint/pull/12494
+eslint/eslint,12487,Tarang-singhal,changes,https://github.com/eslint/eslint/pull/12487
+eslint/eslint,12484,dmitryrn,Update: Disable require-await for async generators (fixes #12459),https://github.com/eslint/eslint/pull/12484
+eslint/eslint,12476,chandimary,added something to the rules,https://github.com/eslint/eslint/pull/12476
+eslint/eslint,12445,RsPlayer,Fix: added react configuration in eslint init,https://github.com/eslint/eslint/pull/12445
+eslint/eslint,12431,nchutchind,Fix: Add check to avoid null reference. (fixes #12430),https://github.com/eslint/eslint/pull/12431
+eslint/eslint,12406,gamtiq,Update: Add consistent option to computed-property-spacing,https://github.com/eslint/eslint/pull/12406
+eslint/eslint,12400,KomalShahzadi,rule proposal,https://github.com/eslint/eslint/pull/12400
+eslint/eslint,12394,shanuksha,Updated README.md,https://github.com/eslint/eslint/pull/12394
+eslint/eslint,12386,Eoghan-K,Docs: Documentation fix for max-depth,https://github.com/eslint/eslint/pull/12386
+eslint/eslint,12383,nambikai,Docs: Fixed max-depth example (fixes #119911),https://github.com/eslint/eslint/pull/12383
+eslint/eslint,12382,nambikai,fixed max-depth example in documentation,https://github.com/eslint/eslint/pull/12382
+eslint/eslint,12372,cherryblossom000,Chore: Fix pull request template checkboxes,https://github.com/eslint/eslint/pull/12372
+eslint/eslint,12367,gabrieldrs,Update: no-path-concat rule checks template literals (fixes #12323),https://github.com/eslint/eslint/pull/12367
+eslint/eslint,12359,Mahesh419,fixes issue #11991,https://github.com/eslint/eslint/pull/12359
+eslint/eslint,12356,ek5000,Fix: consistent-return incorrectly reports for generators (fixes #11371),https://github.com/eslint/eslint/pull/12356
+eslint/eslint,12342,IgorNovozhilov,Update: rule 'lines-around-comment' - add 'false' options,https://github.com/eslint/eslint/pull/12342
+eslint/eslint,12338,jmrossy,Remove misleading example from no-return-await,https://github.com/eslint/eslint/pull/12338
+eslint/eslint,12333,GeoffreyBooth,Fix: Load CommonJS .eslintrc.js files within a "type": "module" package scope (fixes #12319),https://github.com/eslint/eslint/pull/12333
+eslint/eslint,12305,derjones,New: Rule class-methods-use-this option exceptMethods accepts regex,https://github.com/eslint/eslint/pull/12305
+eslint/eslint,12297,SebastienGllmt,New: Add no-floating-promise rule,https://github.com/eslint/eslint/pull/12297
+eslint/eslint,12294,yacmeno,Fix: Added extends value in initializer for react,https://github.com/eslint/eslint/pull/12294
+eslint/eslint,12267,mdjermanovic,Update: Array.prototype.flatMap in array-callback-return (fixes #12235),https://github.com/eslint/eslint/pull/12267
+eslint/eslint,12240,christianbundy,New: add rule no-unexpected-start,https://github.com/eslint/eslint/pull/12240
+eslint/eslint,12229,christianbundy,Update: Add allowAsiHazardAfter option to semi,https://github.com/eslint/eslint/pull/12229
+eslint/eslint,12191,Gaafar,New: Allow parallel linting in child processes (fixes #3565),https://github.com/eslint/eslint/pull/12191
+eslint/eslint,12143,Validark,Automatically remove `eslint-plugin-` from ruleId's in linter.js,https://github.com/eslint/eslint/pull/12143
+eslint/eslint,12116,platinumazure,Chore: Try pinning espree dependency,https://github.com/eslint/eslint/pull/12116
+eslint/eslint,12060,jamesgeorge007,New: Adds new info flag,https://github.com/eslint/eslint/pull/12060
+eslint/eslint,12047,mdjermanovic,Fix: key-spacing shouldn't report object pattern properties,https://github.com/eslint/eslint/pull/12047
+eslint/eslint,12046,mdjermanovic,Fix: quote-props shouldn't report object pattern properties,https://github.com/eslint/eslint/pull/12046
+eslint/eslint,12035,christianbundy,Update: auto-fix global strict mode (fixes #12034),https://github.com/eslint/eslint/pull/12035
+eslint/eslint,12021,fa93hws,Chore: pass cwd from cli engine,https://github.com/eslint/eslint/pull/12021
+eslint/eslint,12003,imai0917,Docs: Fix incorrect example for max-depth rule (#11991),https://github.com/eslint/eslint/pull/12003
+eslint/eslint,11987,fa93hws,New: Enable snapshot test for rule tester,https://github.com/eslint/eslint/pull/11987
+eslint/eslint,11984,mysticatea,Fix: no-new-wrappers reports only wrappers,https://github.com/eslint/eslint/pull/11984
+eslint/eslint,11981,mdjermanovic,New: no-lexical-globals rule,https://github.com/eslint/eslint/pull/11981
+eslint/eslint,11966,phenomnomnominal,New: Fix for "no-useless-constructor" (fixes #11693),https://github.com/eslint/eslint/pull/11966
+eslint/eslint,11965,fa93hws,Chore: export checkBinary in space-infix-ops,https://github.com/eslint/eslint/pull/11965
+eslint/eslint,11962,mdjermanovic,New: prefer-async-await rule (fixes #9649),https://github.com/eslint/eslint/pull/11962
+eslint/eslint,11961,manniL,New: add prefer-async-await rule,https://github.com/eslint/eslint/pull/11961
+eslint/eslint,11912,mdjermanovic,Fix: curly errors with lexical and function declarations (fixes #11908),https://github.com/eslint/eslint/pull/11912
+eslint/eslint,11907,mattrabe,Update: Disallow gremlin chars in no-irregular-whitespace,https://github.com/eslint/eslint/pull/11907
+eslint/eslint,11897,fa93hws,Fix: enable getJSDocComment for ObjectExpression (fixes: 11898),https://github.com/eslint/eslint/pull/11897
+eslint/eslint,11884,nevir,Bug: nested plugins cannot be found when nested in a shared config (6.0.0),https://github.com/eslint/eslint/pull/11884
+eslint/eslint,11877,aladdin-add,Build: update entry in webpack config (fixes #11873),https://github.com/eslint/eslint/pull/11877
+eslint/eslint,11858,WaldoJeffers,fix: Cannot read property 'range' of null error with indent,https://github.com/eslint/eslint/pull/11858
+eslint/eslint,11857,yoyo837,fix checkbox,https://github.com/eslint/eslint/pull/11857
+eslint/eslint,11856,yoyo837,fix typo,https://github.com/eslint/eslint/pull/11856
+eslint/eslint,11850,OliverSieweke,Fix: no-param-reassign schema (fixes #11837),https://github.com/eslint/eslint/pull/11850
+eslint/eslint,11847,eschaefer,New: add rule no-misspelled-length,https://github.com/eslint/eslint/pull/11847
+eslint/eslint,11817,thecotne,Update: in quote-props rule allow consistent-as-needed with numbers option (fixes #8093),https://github.com/eslint/eslint/pull/11817
+eslint/eslint,11811,brettz9,Breaking: Let `no-new-object` pass with arguments (fixes #11810),https://github.com/eslint/eslint/pull/11811
+eslint/eslint,11807,codetriage-readme-bot,Add CodeTriage badge to eslint/eslint,https://github.com/eslint/eslint/pull/11807
+eslint/eslint,11793,bluelovers,Update: Support ignore in no-irregular-whitespace,https://github.com/eslint/eslint/pull/11793
+eslint/eslint,11788,IgorNovozhilov,Update: rule 'padding-line-between-statements' - add number of lines,https://github.com/eslint/eslint/pull/11788
+eslint/eslint,11785,lusinga,Merge pull request #1 from eslint/master,https://github.com/eslint/eslint/pull/11785
+eslint/eslint,11748,dimitropoulos,Chore: `leave` only takes one argument: `node`,https://github.com/eslint/eslint/pull/11748
+eslint/eslint,11733,IgorNovozhilov,New: Add events in CLIEngine (fileVerify),https://github.com/eslint/eslint/pull/11733
+eslint/eslint,11731,mysticatea,Fix: allow package name in parser in RuleTester (fixes #11728),https://github.com/eslint/eslint/pull/11731
+eslint/eslint,11727,dandv,Add prefer-const to eslint:recommended,https://github.com/eslint/eslint/pull/11727
+eslint/eslint,11726,tkvlnk,New: Added new force cli option ( refs #6882 ),https://github.com/eslint/eslint/pull/11726
+eslint/eslint,11703,mysticatea,Chore: update .travis.yml,https://github.com/eslint/eslint/pull/11703
+eslint/eslint,11695,IgorNovozhilov,Update: Uniform messages for the rules in "complexity" section,https://github.com/eslint/eslint/pull/11695
+eslint/eslint,11673,AlokTakshak,Docs: fix example of ImportDeclaration in indent-rule docs,https://github.com/eslint/eslint/pull/11673
+eslint/eslint,11598,platinumazure,Fix: Smarter no-var autofix to avoid breaking TS code (fixes #11594),https://github.com/eslint/eslint/pull/11598
+eslint/eslint,11597,nemoload,Docs: fixed a typo in the no-console docs,https://github.com/eslint/eslint/pull/11597
+eslint/eslint,11574,pugnascotia,Fix: do not require backticks in type annotations,https://github.com/eslint/eslint/pull/11574
+eslint/eslint,11572,not-an-aardvark,New: add rule to disallow bugs in source code,https://github.com/eslint/eslint/pull/11572
+eslint/eslint,11563,jahorwitz,Update: added ignoreTabsOnComments option to no-tabs rule (fixes #11562),https://github.com/eslint/eslint/pull/11563
+eslint/eslint,11561,szb512,Change the docs,https://github.com/eslint/eslint/pull/11561
+eslint/eslint,11543,MilesZew,Update: Added new "skipNested" option to "max-lines-per-function" rule,https://github.com/eslint/eslint/pull/11543
+eslint/eslint,11497,MikeBeaton,Update: linebreak-style.md tentative proposal (fixes #11458),https://github.com/eslint/eslint/pull/11497
+eslint/eslint,11496,aladdin-add,Breaking: validate parserOptions (fixes #9687),https://github.com/eslint/eslint/pull/11496
+eslint/eslint,11487,montmanu,New: Add `--cache-strategy` CLI option (refs #11319),https://github.com/eslint/eslint/pull/11487
+eslint/eslint,11474,aladdin-add,Chore: enable prefer-named-capture-group in eslint codebase,https://github.com/eslint/eslint/pull/11474
+eslint/eslint,11457,akirilyuk,Docs: update global require documentation to match new eslint-disable-next-line syntax,https://github.com/eslint/eslint/pull/11457
+eslint/eslint,11439,g-plane,Fix: not to report if `undefined` is re-assigned (fixes #11438),https://github.com/eslint/eslint/pull/11439
+eslint/eslint,11432,aladdin-add,wip:Breaking: throw an error when disable a non-existent rule in a config (refs #9505),https://github.com/eslint/eslint/pull/11432
+eslint/eslint,11424,not-an-aardvark,Chore: lint karma.conf.js and webpack.config.js,https://github.com/eslint/eslint/pull/11424
+eslint/eslint,11409,yinzara,Update: Add --no-warn-ignored CLI option to suppress ignored file warnings (fixes #9977),https://github.com/eslint/eslint/pull/11409
+eslint/eslint,11387,g-plane,Docs: add more examples in no-plusplus,https://github.com/eslint/eslint/pull/11387
+eslint/eslint,11363,gwer,Update: single argument on newline with function-paren-newline multiline,https://github.com/eslint/eslint/pull/11363
+eslint/eslint,11352,aladdin-add,Chore: fix exports in comma-dangle tests,https://github.com/eslint/eslint/pull/11352
+eslint/eslint,11339,not-an-aardvark,Chore: remove tools/rule-types.json,https://github.com/eslint/eslint/pull/11339
+eslint/eslint,11331,vermiceli,Docs: Fixes incorrect example,https://github.com/eslint/eslint/pull/11331
+eslint/eslint,11329,vermiceli,Docs: Fix no-restricted-global example & clarify params,https://github.com/eslint/eslint/pull/11329
+eslint/eslint,11294,yaodingyd,Fix: use option.cwd to resolve shared config,https://github.com/eslint/eslint/pull/11294
+eslint/eslint,11276,cktang88,Chore: Bump file-entry-cache version,https://github.com/eslint/eslint/pull/11276
+eslint/eslint,11266,lingxiaoguang,Update: make the rule 'no-sync' more exact,https://github.com/eslint/eslint/pull/11266
+eslint/eslint,11250,aladdin-add,wip:Fix: load parser after applyExtends() was called (fixes #11240),https://github.com/eslint/eslint/pull/11250
+eslint/eslint,11248,e-6,Add npx usage to Getting Started docs,https://github.com/eslint/eslint/pull/11248
+eslint/eslint,11227,jimjenkins5,New: Add option 'allowSingleLineArrow' to brace-style (fixes #11217),https://github.com/eslint/eslint/pull/11227
+eslint/eslint,11214,wood1986,New: Add fixedCount for indicating eslint has fixed something/nothing,https://github.com/eslint/eslint/pull/11214
+eslint/eslint,11212,bmish,New: implement 'require-await-function-call' rule.,https://github.com/eslint/eslint/pull/11212
+eslint/eslint,11186,larsgw,Breaking: allow comments after no-fallthrough (fixes #10608),https://github.com/eslint/eslint/pull/11186
+eslint/eslint,11184,futagoza, Update: Identify multi-case statements (fixes #11178),https://github.com/eslint/eslint/pull/11184
+eslint/eslint,11167,bmish,Update: add fixer to require-await rule.,https://github.com/eslint/eslint/pull/11167
+eslint/eslint,11152,nzakas,Build: Add fetch team data during gensite (fixes eslint/eslint.github.io#515),https://github.com/eslint/eslint/pull/11152
+eslint/eslint,11147,aladdin-add,wip: Chore: switch to eslint-plugin-jsdoc (refs #11146),https://github.com/eslint/eslint/pull/11147
+eslint/eslint,11137,vapier,prefer-object-spread: add an example for setting default values,https://github.com/eslint/eslint/pull/11137
+eslint/eslint,11108,romainwn,fix: update PR template witch checboxes,https://github.com/eslint/eslint/pull/11108
+eslint/eslint,11101,getify,Fix: Allow escaped whitespace in paths for config initialization (fixes #11099),https://github.com/eslint/eslint/pull/11101
+eslint/eslint,11079,grumd,Add an option to auto-add "eslint-ignore" comments for all unfixable errors,https://github.com/eslint/eslint/pull/11079
+eslint/eslint,11076,captain-yossarian,Fix: prevent fixing to incorrect code (fixes #11069),https://github.com/eslint/eslint/pull/11076
+eslint/eslint,11070,platinumazure,Docs: Reorder Node.js API sections,https://github.com/eslint/eslint/pull/11070
+eslint/eslint,11033,SaladFork,New: Add prefer-async-await rule (fixes #9649),https://github.com/eslint/eslint/pull/11033
+eslint/eslint,11028,cdaringe,Update: Add support for filename baseConfig,https://github.com/eslint/eslint/pull/11028
+eslint/eslint,11016,evelynhathaway,Fix: Allow fallthrough comment in case block (fixes #9559),https://github.com/eslint/eslint/pull/11016
+eslint/eslint,11007,leinelissen,Update: require-jsdoc exceptions,https://github.com/eslint/eslint/pull/11007
+eslint/eslint,10999,david-mitchell,Update: Require JSDoc comments only on exported properties (fixes #7812),https://github.com/eslint/eslint/pull/10999
+eslint/eslint,10998,flyerhzm,New: List target files (fixes #11005),https://github.com/eslint/eslint/pull/10998
+eslint/eslint,10979,sumleo,Chore: Refactor and optimize combineArrays,https://github.com/eslint/eslint/pull/10979
+eslint/eslint,10946,nakulpathak3,Docs: Move multi-str operator to new line to avoid other warning,https://github.com/eslint/eslint/pull/10946
+eslint/eslint,10940,marudor,Fix: OptionalCallExpression for no-unused-expressions (fixes #10939),https://github.com/eslint/eslint/pull/10940
+eslint/eslint,10928,cotonne,Update: replace stacktrace by a clear message when invalid plugins are provided (fixes #10927),https://github.com/eslint/eslint/pull/10928
+eslint/eslint,10926,cotonne,Replace stacktrace by a clean message when invalid plugins are provided (array, object),https://github.com/eslint/eslint/pull/10926
+eslint/eslint,10923,madbence,Update: Ignore type aliases in space-infix-ops (fixes #10922),https://github.com/eslint/eslint/pull/10923
+eslint/eslint,10917,aladdin-add,wip: Update: rule curly supports overrides (fixes #5975),https://github.com/eslint/eslint/pull/10917
+eslint/eslint,10915,gettaplay,improve README.md,https://github.com/eslint/eslint/pull/10915
+eslint/eslint,10897,tmccary9207,Update no-eq-null.md,https://github.com/eslint/eslint/pull/10897
+eslint/eslint,10895,jeremiegourovitch,New: Add the exclude function name option.,https://github.com/eslint/eslint/pull/10895
+eslint/eslint,10882,Kefir100,New: Add no-hardcoded-values rule,https://github.com/eslint/eslint/pull/10882
+eslint/eslint,10868,villesau,Fix: optional chain camelcase rule fix (fixes #10848),https://github.com/eslint/eslint/pull/10868
+eslint/eslint,10830,graingert,New: support subclassing RuleTester to override it/describe Fixes #10834,https://github.com/eslint/eslint/pull/10830
+eslint/eslint,10822,helixbass,New: custom parser hook for code path analysis,https://github.com/eslint/eslint/pull/10822
+eslint/eslint,10819,not-an-aardvark,Docs: allow offline TSC votes,https://github.com/eslint/eslint/pull/10819
+eslint/eslint,10792,brokentone,Fix: getJSDocComment - Try using looser "Property" as a fence,https://github.com/eslint/eslint/pull/10792
+eslint/eslint,10775,Mouvedia,New: Add yui environment,https://github.com/eslint/eslint/pull/10775
+eslint/eslint,10759,zo0ok,Update no-confusing-arrow.md,https://github.com/eslint/eslint/pull/10759
+eslint/eslint,10758,jankhunter,New: Rule to find layout-thrashing in your code,https://github.com/eslint/eslint/pull/10758
+eslint/eslint,10740,ajafff,Docs: remove outdated note about caching only valid files (fixes #10739),https://github.com/eslint/eslint/pull/10740
+eslint/eslint,10737,pkuczynski,Docs: formatting of the compatibility section,https://github.com/eslint/eslint/pull/10737
+eslint/eslint,10736,pkuczynski,Docs: remove links to terminated jscs.info domain,https://github.com/eslint/eslint/pull/10736
+eslint/eslint,10735,realityking,Update: Bump inquirer to version 6,https://github.com/eslint/eslint/pull/10735
+eslint/eslint,10728,aladdin-add,wip: Chore: simplify config validation in rule-tester,https://github.com/eslint/eslint/pull/10728
+eslint/eslint,10716,aladdin-add,Chore: simplify the usage of config-validator,https://github.com/eslint/eslint/pull/10716
+eslint/eslint,10713,aladdin-add,Chore: simplify schemas validation in rule-tester,https://github.com/eslint/eslint/pull/10713
+eslint/eslint,10711,IceDune,Fix: no-restricted-globals crash with "hasOwnProperty" (fixes #10660),https://github.com/eslint/eslint/pull/10711
+eslint/eslint,10708,BenRuns,Update: Adds --console-format cli option,https://github.com/eslint/eslint/pull/10708
+eslint/eslint,10701,pantosha,Update: add fixer for no-useless-escape (fixes #10700),https://github.com/eslint/eslint/pull/10701
+eslint/eslint,10692,BenRuns,Add ability to console out a specified format while saving to a file,https://github.com/eslint/eslint/pull/10692
+eslint/eslint,10678,pure-js,Update README.md,https://github.com/eslint/eslint/pull/10678
+eslint/eslint,10656,revolter,Update: Allow the noun version of fall through too,https://github.com/eslint/eslint/pull/10656
+eslint/eslint,10653,mbildner,Update: addresses #9947,https://github.com/eslint/eslint/pull/10653
+eslint/eslint,10651,revolter,Fix: Fix formatting in Pull Request GitHub template,https://github.com/eslint/eslint/pull/10651
+eslint/eslint,10642,aladdin-add,Build: remove polyfill from browserified eslint,https://github.com/eslint/eslint/pull/10642
+eslint/eslint,10624,aladdin-add,Chore: rm some unnecessary Object.freeze(),https://github.com/eslint/eslint/pull/10624
+eslint/eslint,10620,realityking,Update: regexpp@2.0.0,https://github.com/eslint/eslint/pull/10620
+eslint/eslint,10603,pantosha,Fix: SourceCodeFixer apply sequential ranges (fixes #10601),https://github.com/eslint/eslint/pull/10603
+eslint/eslint,10570,aladdin-add,New: display beginner-friendly message if Node version is below(fixes #10549),https://github.com/eslint/eslint/pull/10570
+eslint/eslint,10516,MrKou47,Fix: empty object (fixes #10514),https://github.com/eslint/eslint/pull/10516
+eslint/eslint,10515,MrKou47,fix token === null error,https://github.com/eslint/eslint/pull/10515
+eslint/eslint,10498,zhujinxuan,Fix a semicolon-less bug in padding-line-between-statements,https://github.com/eslint/eslint/pull/10498
+eslint/eslint,10485,zhujinxuan,Add rule padded-multilines,https://github.com/eslint/eslint/pull/10485
+eslint/eslint,10483,greysteil,Add SemVer compatibility badge to README,https://github.com/eslint/eslint/pull/10483
+eslint/eslint,10477,tinymins,Update: add propertiesPattern for id-match rule,https://github.com/eslint/eslint/pull/10477
+eslint/eslint,10474,tinymins,Update: add allow underscores options to camelcase rule.,https://github.com/eslint/eslint/pull/10474
+eslint/eslint,10452,zeorin,Update: allowAlternate option for no-nested-ternary (fixes #10321),https://github.com/eslint/eslint/pull/10452
+eslint/eslint,10446,saveman71,Update: no-magic-numbers should ignore parseFloat (fixes #10445),https://github.com/eslint/eslint/pull/10446
+eslint/eslint,10414,ghost,ESLINT,https://github.com/eslint/eslint/pull/10414
+eslint/eslint,10399,Hypnosphi,Support proposal-nullish-coalescing-operator,https://github.com/eslint/eslint/pull/10399
+eslint/eslint,10394,aladdin-add,Breaking: not ignore files beginning with a dot(fixes #10341),https://github.com/eslint/eslint/pull/10394
+eslint/eslint,10390,aladdin-add,wip: Build: Browserify => parcel (refs #9478),https://github.com/eslint/eslint/pull/10390
+eslint/eslint,10362,jeemok,Fix: Update dependencies version for better security,https://github.com/eslint/eslint/pull/10362
+eslint/eslint,10317,chengjianhua,Chore: resolve the relative configuration file by the strategy how node resolves a .js module,https://github.com/eslint/eslint/pull/10317
+eslint/eslint,10316,chengjianhua,Chore: resolve the relative configuration file by the strategy how node resolves the .js file,https://github.com/eslint/eslint/pull/10316
+eslint/eslint,10308,ilyavolodin,Chore: Update issue templates,https://github.com/eslint/eslint/pull/10308
+eslint/eslint,10306,platinumazure,WIP: (POC) Node version runtime checks,https://github.com/eslint/eslint/pull/10306
+eslint/eslint,10305,ahmadassaf,Update: enable shorthand strings for arrow-spacing rule,https://github.com/eslint/eslint/pull/10305
+eslint/eslint,10300,yinonc,Fix: no-throw-literal fix option (fixes #10296),https://github.com/eslint/eslint/pull/10300
+eslint/eslint,10299,yinonc,issue10296|adding fix for no-throw-literal,https://github.com/eslint/eslint/pull/10299
+eslint/eslint,10291,graingert,fix 'no-multiple-empty-lines'.maxEOF out by one,https://github.com/eslint/eslint/pull/10291
+eslint/eslint,10269,mickaelchanrion,Fix: Junit formatter handles better warnings/errors (fixes #10266),https://github.com/eslint/eslint/pull/10269
+eslint/eslint,10267,mickaelchanrion,Fix: Junit formatter handles better warnings/errors (fixes #10266),https://github.com/eslint/eslint/pull/10267
+eslint/eslint,10235,stevenvachon,Fine grain `one-var` config,https://github.com/eslint/eslint/pull/10235
+eslint/eslint,10231,stevenvachon,Support for more detail in `one-var`,https://github.com/eslint/eslint/pull/10231
+eslint/eslint,10224,romainwn,fix typo,https://github.com/eslint/eslint/pull/10224
+eslint/eslint,10166,aladdin-add,wip: Fix: throw an error when disable a non-existent rule (fixes #9505),https://github.com/eslint/eslint/pull/10166
+eslint/eslint,10165,aladdin-add,wip: Update: allow custom styleguide when init (fixes #10132),https://github.com/eslint/eslint/pull/10165
+eslint/eslint,10164,aladdin-add,Fix: rm unnecessary /i in config-validator,https://github.com/eslint/eslint/pull/10164
+eslint/eslint,10153,epoberezkin,Update ajv to the latest version,https://github.com/eslint/eslint/pull/10153
+eslint/eslint,10133,edahlseng,Update: Fallback to no prefix when searching for eslint-config modules,https://github.com/eslint/eslint/pull/10133
+eslint/eslint,10126,NMinhNguyen,Fix: `no-unused-vars` false positive on default params (fixes #10124),https://github.com/eslint/eslint/pull/10126
+eslint/eslint,10087,safaiyeh,Docs: Updated no-nested-ternary.md, simplified code of the correct example,https://github.com/eslint/eslint/pull/10087
+eslint/eslint,10079,hulkish,Replaced babel-code-frame with @babel/code-frame, enabled highlightCode,https://github.com/eslint/eslint/pull/10079
+eslint/eslint,10058,jaydenseric,Update: Add mjs to --ext default (fixes #9592),https://github.com/eslint/eslint/pull/10058
+eslint/eslint,10056,steabert,Fix: silently skip non-existing files (fixes #10039),https://github.com/eslint/eslint/pull/10056
+eslint/eslint,10032,not-an-aardvark,Chore: improve autofix performance (fixes #9998),https://github.com/eslint/eslint/pull/10032
+eslint/eslint,10018,blake-regalia,Update: Add option `"maxConcat"` to `prefer-template` rule (fixes #10017),https://github.com/eslint/eslint/pull/10018
+eslint/eslint,10016,blake-regalia,Update: Allow for no lines around comments before else (fixes #10015),https://github.com/eslint/eslint/pull/10016
 eslint/eslint,9989,pvdlg,Docs: Add prefer-destructuring examples (fixes #9970),https://github.com/eslint/eslint/pull/9989
 eslint/eslint,9982,PenelopeFudd,Docs: Update no-func-assign.md,https://github.com/eslint/eslint/pull/9982
 eslint/eslint,9979,germanz,Fix: valid-jsdoc failure for missing return in interface methods (fixes #9978),https://github.com/eslint/eslint/pull/9979
@@ -447,55 +449,3 @@ eslint/eslint,7026,jankuca,add allowCommentBody option to no-fallthrough,https:/
 eslint/eslint,7009,paladox,Also run npm install in travis ci,https://github.com/eslint/eslint/pull/7009
 eslint/eslint,6987,robertrossmann,Update: Make `no-tabs` rule fixable,https://github.com/eslint/eslint/pull/6987
 eslint/eslint,6951,Cellule,Shareable plugins,https://github.com/eslint/eslint/pull/6951
-eslint/eslint,6946,platinumazure,WIP: New: capitalized-comments rule (fixes #6055),https://github.com/eslint/eslint/pull/6946
-eslint/eslint,6922,brennie,Docs: Update documentation of `globals` key in configuring.md,https://github.com/eslint/eslint/pull/6922
-eslint/eslint,6912,Trott,Fix: Check indentation on multiline variable declarations (fixes #6911),https://github.com/eslint/eslint/pull/6912
-eslint/eslint,6902,adamkasztenny,New: Add CLI option for exiting 0 (fixes #2949),https://github.com/eslint/eslint/pull/6902
-eslint/eslint,6895,nfriedly,Docs: Make env match ecmaVersion in example,https://github.com/eslint/eslint/pull/6895
-eslint/eslint,6868,eelyafi,Sort-imports autofixer. Issue #6866,https://github.com/eslint/eslint/pull/6868
-eslint/eslint,6865,AsaAyers,Fix: Use Node's resolution algorithm for plugins & parsers (refs #3458),https://github.com/eslint/eslint/pull/6865
-eslint/eslint,6856,NickHeiner,Update: Add fixer for strict (fixes #6668),https://github.com/eslint/eslint/pull/6856
-eslint/eslint,6817,nzakas,Fix: Pin file-entry-cache to working version (fixes #6816),https://github.com/eslint/eslint/pull/6817
-eslint/eslint,6812,kaicataldo,Chore: Enable object-shorthand rule (refs #6407),https://github.com/eslint/eslint/pull/6812
-eslint/eslint,6796,Trott,Fix: ignore MemberExpression in VariableDeclarators (fixes #6795),https://github.com/eslint/eslint/pull/6796
-eslint/eslint,6737,LegNeato,Fix: sort-imports: single import of multiple style as "multiple" type (fixes #6736),https://github.com/eslint/eslint/pull/6737
-eslint/eslint,6730,kaelzhang,Fix: Improves pref of globbing with numerous files by specifying ignore patterns (fixes #5679),https://github.com/eslint/eslint/pull/6730
-eslint/eslint,6686,kaicataldo,Chore: Remove `fixable` from multiline-ternary metadata (fixes #6683),https://github.com/eslint/eslint/pull/6686
-eslint/eslint,6685,irvinebroque,Remove stray .eslintrc.yml file,https://github.com/eslint/eslint/pull/6685
-eslint/eslint,6684,kaicataldo,Chore: Remove `fixable` from multiline-ternary metadata (fixes #6683),https://github.com/eslint/eslint/pull/6684
-eslint/eslint,6680,amilajack,Update: Added osx support to travis ci,https://github.com/eslint/eslint/pull/6680
-eslint/eslint,6622,platinumazure,Fix: Remove  reference from 3.0.0 migration guide (refs #6605),https://github.com/eslint/eslint/pull/6622
-eslint/eslint,6599,pmcelhaney,New: exposes rule metadata to the Node API (fixes #6582),https://github.com/eslint/eslint/pull/6599
-eslint/eslint,6594,theawesomenayak,Docs: Corrected documentation (fixes #6397),https://github.com/eslint/eslint/pull/6594
-eslint/eslint,6589,pmcelhaney,New: allows plugins to specify the URLs to their docs (fixes #6582),https://github.com/eslint/eslint/pull/6589
-eslint/eslint,6533,aaronabramov,Show actual value in rule-tester assertions,https://github.com/eslint/eslint/pull/6533
-eslint/eslint,6530,aubergine10,Docs: yield-star-spacing cleanup & refactor,https://github.com/eslint/eslint/pull/6530
-eslint/eslint,6523,aubergine10,Docs: Consistent example headings & text pt6 (refs #5446),https://github.com/eslint/eslint/pull/6523
-eslint/eslint,6520,IanVS,Breaking: Error thrown/printed if no config found (fixes #5987),https://github.com/eslint/eslint/pull/6520
-eslint/eslint,6519,codepunkt,Update: Take type annotations into account in `space-infix-ops`,https://github.com/eslint/eslint/pull/6519
-eslint/eslint,6517,aubergine10,Docs: Fix typos in block comments (fixes #6516),https://github.com/eslint/eslint/pull/6517
-eslint/eslint,6512,aubergine10,Docs: Consistent example heading and caption (Refs #5446),https://github.com/eslint/eslint/pull/6512
-eslint/eslint,6504,TobiasBales,New: Add ignorePropertiesFor to no-param-reassign,https://github.com/eslint/eslint/pull/6504
-eslint/eslint,6487,aubergine10,Docs: Consistent example headings & text bat2 #5446,https://github.com/eslint/eslint/pull/6487
-eslint/eslint,6480,SimenB,Include rules documentation in package,https://github.com/eslint/eslint/pull/6480
-eslint/eslint,6468,nzakas,Fix: Ensure config extends reads from the right spot (fixes #5450),https://github.com/eslint/eslint/pull/6468
-eslint/eslint,6461,AnilRedshift,New: Allow conditional rules in eslint based on the environment,https://github.com/eslint/eslint/pull/6461
-eslint/eslint,6453,aubergine10,Docs: Consistent example headings & text (refs #5446),https://github.com/eslint/eslint/pull/6453
-eslint/eslint,6445,ekmartin,Update padded-blocks to include padding outside blocks,https://github.com/eslint/eslint/pull/6445
-eslint/eslint,6437,ljharb,Chore: `no-control-regex`: Remove seemingly unnecessary logic.,https://github.com/eslint/eslint/pull/6437
-eslint/eslint,6419,pedrottimark,Build: Automatically add rule meta data in docs (fixes #5774),https://github.com/eslint/eslint/pull/6419
-eslint/eslint,6409,ricardogama,Fix: Allow get keys in object-shorthand (fixes #6408),https://github.com/eslint/eslint/pull/6409
-eslint/eslint,6395,mysticatea,New: `no-global-assign` rule (fixes #5358),https://github.com/eslint/eslint/pull/6395
-eslint/eslint,6384,platinumazure,Breaking: Error thrown/printed if no config found (fixes #5987),https://github.com/eslint/eslint/pull/6384
-eslint/eslint,6354,peteward44,Update: Added "allowAfterSuper" property to rule "no-underscore-dangle" (fixes #6355),https://github.com/eslint/eslint/pull/6354
-eslint/eslint,6353,peteward44,Update: Added "allowAfterSuper" property to rule "no-underscore-dangle",https://github.com/eslint/eslint/pull/6353
-eslint/eslint,6314,lemonmade,Update: allow regular expressions for id-blacklist (fixes #6212),https://github.com/eslint/eslint/pull/6314
-eslint/eslint,6285,EvHaus,Fix typo in `no-prototype-builtins` documentation,https://github.com/eslint/eslint/pull/6285
-eslint/eslint,6275,alberto,Update: Improve perf not traversing default ignored dirs (fixes #6215),https://github.com/eslint/eslint/pull/6275
-eslint/eslint,6269,daltones,Docs: Mark no-useless-rename as fixable in rules index,https://github.com/eslint/eslint/pull/6269
-eslint/eslint,6252,teropa,Docs: Speak like Yoda when mentioning "yoda": "always",https://github.com/eslint/eslint/pull/6252
-eslint/eslint,6239,jeremyruppel,Allow whitespace after jsdoc comments,https://github.com/eslint/eslint/pull/6239
-eslint/eslint,6229,ehjay,New: `unicode-bom` rule to allow or disallow BOM (fixes #5502),https://github.com/eslint/eslint/pull/6229
-eslint/eslint,6228,ehjay,New: `unicode-bom` rule to allow or disallow BOM (fixes #5502),https://github.com/eslint/eslint/pull/6228
-eslint/eslint,6215,samccone,🦄  Utilize glob ignore option for massive perf win 🦄,https://github.com/eslint/eslint/pull/6215
-eslint/eslint,6188,josh,Lint unnecessary disabled reporting comments,https://github.com/eslint/eslint/pull/6188

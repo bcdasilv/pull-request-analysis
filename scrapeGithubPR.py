@@ -18,12 +18,12 @@ def get_closed_unmerged_prs(repoOwner, repoName, numPages):
     f = open(repoOwner + "_" + repoName + ".csv", "w")
     f.write("project, pr_id, user, pr_title, URL\n")
     for i in range(numPages + 1):
-        page = requests.get("https://github.com/" + repoOwner + "/" + repoName + "/pulls?page=" + str(i+1) + "&q=is%3Apr+is%3Aclosed+is%3Aunmerged&utf8=%E2%9C%93")
+        page = requests.get("https://github.com/" + repoOwner + "/" + repoName + "/pulls?page=" + str(i+1) + "&q=is%3Apr+is%3Aclosed+is%3Aunmerged")
         soup = BeautifulSoup(page.content, 'html.parser')
         spanElements = soup.findAll("span", {"class": "opened-by"})
         for spanEl in spanElements:
             project = repoOwner + "/" + repoName
-            pr_id = spanEl.text.strip()[0:5].strip()[1:]
+            pr_id = spanEl.text.strip()[0:7].strip()[1:]
             user = spanEl.parent.find('a').text
             pr_title = spanEl.parent.parent.find('a').text
             url = "https://github.com/" + project + "/pull/" + pr_id
